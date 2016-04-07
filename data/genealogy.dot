@@ -1,0 +1,133 @@
+graph G {
+    F_0_0_0 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_1_1_1 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_32_1_0 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_2_2_2 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_17_2_1 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_33_2_1 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_48_2_0 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_3_3_3 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_10_3_2 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_18_3_2 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_25_3_1 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_34_3_2 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_41_3_1 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_49_3_0 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_56_3_0 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_4_4_4 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_7_4_3 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_11_4_3 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_14_4_2 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_19_4_3 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_22_4_2 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_26_4_1 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_29_4_1 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_35_4_3 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_38_4_2 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_42_4_2 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_45_4_1 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_50_4_0 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_53_4_0 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_57_4_0 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_60_4_0 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_5_5_5 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_6_5_4 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_8_5_4 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_9_5_3 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_12_5_4 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_13_5_3 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_15_5_2 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_16_5_2 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_20_5_4 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_21_5_3 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_23_5_3 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_24_5_2 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_27_5_1 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_28_5_1 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_30_5_1 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_31_5_1 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_36_5_4 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_37_5_3 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_39_5_3 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_40_5_2 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_43_5_3 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_44_5_2 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_46_5_1 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_47_5_1 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_51_5_0 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_52_5_0 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_54_5_0 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_55_5_0 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_58_5_0 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_59_5_0 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_61_5_0 [label="", penwidth=1, shape=circle, style=filled, fillcolor="#43a2ca", color="#888888"]
+    M_62_5_0 [label="", penwidth=1, shape=square, style=filled, fillcolor="#43a2ca", color="#888888"]
+    F_1_1_1 -- F_0_0_0
+    M_32_1_0 -- F_0_0_0
+    F_2_2_2 -- F_1_1_1
+    M_17_2_1 -- F_1_1_1
+    F_33_2_1 -- M_32_1_0
+    M_48_2_0 -- M_32_1_0
+    F_3_3_3 -- F_2_2_2
+    M_10_3_2 -- F_2_2_2
+    F_18_3_2 -- M_17_2_1
+    M_25_3_1 -- M_17_2_1
+    F_34_3_2 -- F_33_2_1
+    M_41_3_1 -- F_33_2_1
+    F_49_3_0 -- M_48_2_0
+    M_56_3_0 -- M_48_2_0
+    F_4_4_4 -- F_3_3_3
+    M_7_4_3 -- F_3_3_3
+    F_11_4_3 -- M_10_3_2
+    M_14_4_2 -- M_10_3_2
+    F_19_4_3 -- F_18_3_2
+    M_22_4_2 -- F_18_3_2
+    F_26_4_1 -- M_25_3_1
+    M_29_4_1 -- M_25_3_1
+    F_35_4_3 -- F_34_3_2
+    M_38_4_2 -- F_34_3_2
+    F_42_4_2 -- M_41_3_1
+    M_45_4_1 -- M_41_3_1
+    F_50_4_0 -- F_49_3_0
+    M_53_4_0 -- F_49_3_0
+    F_57_4_0 -- M_56_3_0
+    M_60_4_0 -- M_56_3_0
+    F_5_5_5 -- F_4_4_4
+    M_6_5_4 -- F_4_4_4
+    F_8_5_4 -- M_7_4_3
+    M_9_5_3 -- M_7_4_3
+    F_12_5_4 -- F_11_4_3
+    M_13_5_3 -- F_11_4_3
+    F_15_5_2 -- M_14_4_2
+    M_16_5_2 -- M_14_4_2
+    F_20_5_4 -- F_19_4_3
+    M_21_5_3 -- F_19_4_3
+    F_23_5_3 -- M_22_4_2
+    M_24_5_2 -- M_22_4_2
+    F_27_5_1 -- F_26_4_1
+    M_28_5_1 -- F_26_4_1
+    F_30_5_1 -- M_29_4_1
+    M_31_5_1 -- M_29_4_1
+    F_36_5_4 -- F_35_4_3
+    M_37_5_3 -- F_35_4_3
+    F_39_5_3 -- M_38_4_2
+    M_40_5_2 -- M_38_4_2
+    F_43_5_3 -- F_42_4_2
+    M_44_5_2 -- F_42_4_2
+    F_46_5_1 -- M_45_4_1
+    M_47_5_1 -- M_45_4_1
+    F_51_5_0 -- F_50_4_0
+    M_52_5_0 -- F_50_4_0
+    F_54_5_0 -- M_53_4_0
+    M_55_5_0 -- M_53_4_0
+    F_58_5_0 -- F_57_4_0
+    M_59_5_0 -- F_57_4_0
+    F_61_5_0 -- M_60_4_0
+    M_62_5_0 -- M_60_4_0
+{rank=same;     F_0_0_0}
+{rank=same;     F_1_1_1;     M_32_1_0}
+{rank=same;     F_2_2_2;     M_17_2_1;     F_33_2_1;     M_48_2_0}
+{rank=same;     F_3_3_3;     M_10_3_2;     F_18_3_2;     M_25_3_1;     F_34_3_2;     M_41_3_1;     F_49_3_0;     M_56_3_0}
+{rank=same;     F_4_4_4;     M_7_4_3;     F_11_4_3;     M_14_4_2;     F_19_4_3;     M_22_4_2;     F_26_4_1;     M_29_4_1;     F_35_4_3;     M_38_4_2;     F_42_4_2;     M_45_4_1;     F_50_4_0;     M_53_4_0;     F_57_4_0;     M_60_4_0}
+{rank=same;     F_5_5_5;     M_6_5_4;     F_8_5_4;     M_9_5_3;     F_12_5_4;     M_13_5_3;     F_15_5_2;     M_16_5_2;     F_20_5_4;     M_21_5_3;     F_23_5_3;     M_24_5_2;     F_27_5_1;     M_28_5_1;     F_30_5_1;     M_31_5_1;     F_36_5_4;     M_37_5_3;     F_39_5_3;     M_40_5_2;     F_43_5_3;     M_44_5_2;     F_46_5_1;     M_47_5_1;     F_51_5_0;     M_52_5_0;     F_54_5_0;     M_55_5_0;     F_58_5_0;     M_59_5_0;     F_61_5_0;     M_62_5_0}
+}
